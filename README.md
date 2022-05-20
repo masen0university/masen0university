@@ -1,9 +1,26 @@
 # Maseno University
-<div align= "center">
-![Image](https://github.com/masen0university/masen0university/blob/master/maseno1.png?raw=true)
 
-<!-- https://github.com/masen0university/masen0university/blob/master/maseno1.png -->
+This is a repository for developing an interactive LMS for Maseno University.
+Developed with python-Django framework.
+The User Story:
+ * Students are able to create account.
+ * On landng home, the user is able to see the content, about, blog and contact info on the footer.
+The App has Components:
+ ### Schools
+ ### Departments
+   #### Academics
+   #### Non-Academic
+ ### Courses
+ ### Units
+ ### Lectures
+ ### Students
+   #### Student Leadership
+ ### Staffs
+ ### Subordinate Staffs
+ ### Businesses
 
 
- ![](https://img.shields.io/badge/visits:-000000.svg?style=for-the-badge&logo=f-idea&logoColor=white)<img src="https://profile-counter.glitch.me/masen0university/count.svg" width="150px"/>
-</div>
+# Future Plans:
+* Include an online library with the relevant learning resources
+* Include News, both local and global to allow students stay tuned with the local updates.
+* 
